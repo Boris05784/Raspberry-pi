@@ -23,3 +23,6 @@ threatminer.org
 otx.alienvault.com
 bazaar.abuse.ch
 pornhub.com
+nu.nl
+telegraaf.nl
+test223030.nl
